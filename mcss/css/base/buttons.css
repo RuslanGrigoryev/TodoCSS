@@ -9,7 +9,7 @@
     overflow: visible;
     color: #fff;
     font: 500 14px Arial;
-    cursor: pointer;
+    cursor: pointer; 
     white-space: nowrap; /* fixing IE9 bug with few words in button  */
 
     text-shadow: 0 -1px 0 #458f11;
